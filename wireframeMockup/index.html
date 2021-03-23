@@ -4,18 +4,36 @@
     <meta charset="utf-8">
     <title>"Wireframe Mockup"</title>
     <link rel="Stylesheet" href="css/style.css">
+    <!--link font-awesome for button-->
 </head>
 <body>
     <header>
         <div class="topnav">
             <a class="active" href="#Home">Home</a>
+            <a href="#Logo">Logo</a>
             <a href="#Search">Search</a>
             <a href="#Cart">Cart</a>
         </div>
     </header>
     <main>
         <h1>Product and Purchase</h1>
-            <img src="" alt="Product Soon to be Displayed" width="200" height="300">
+            <a href="https://placeholder.com">
+            <img src="https://via.placeholder.com/200x300">
+            </a>
+        <div class="input group increment btn">
+            <div class="input-group-button">
+                <button type="button" class="button hollow square" data-quantity="minus" data-field="quantity">
+                    <i class="fa fa-minus" aria-hidden="true"></i>
+                </button>
+        </div>
+            <input class="input-group-field" type="number" name="quantity" value="0">
+  <div class="input-group-button">
+    <button type="button" class="button hollow circle" data-quantity="plus" data-field="quantity">
+      <i class="fa fa-plus" aria-hidden="true"></i>
+    </button>
+  </div>
+</div>
+
     </main>
     <footer>
      footer stuff goes here. 
