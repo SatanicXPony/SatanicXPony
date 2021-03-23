@@ -23,6 +23,7 @@ header {
 }
 
 h1 {
+    float: right;
     font-size: 18px;
 }
 /*need button to be on right side, need a div for the right*/
