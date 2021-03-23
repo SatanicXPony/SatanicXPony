@@ -19,6 +19,15 @@ header {
     font-size: 18px;
 }
 
+h1 {
+    font-size: 18px;
+}
+.img {
+    display: block;
+    float: left;
+
+}
+
 main {
     background-color: grey;
     padding: 10px;
