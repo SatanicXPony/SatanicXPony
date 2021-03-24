@@ -1,3 +1,16 @@
 body {
     background-color: pink;
 }
+
+.container {
+    border: 2px solid black;
+    width: 100%;
+    padding: 20px;
+}
+.container a {
+    flex-wrap: wrap;
+    justify-content: space-between;
+    text-align: center;
+    padding: 14px 16px;
+    font-size: 12px;
+}
