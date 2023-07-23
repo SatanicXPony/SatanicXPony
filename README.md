@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @SatanicXPony
-- 👀 I’m interested in Design Technology
-- 🌱 I’m currently learning Web Development
-- 💞️ I’m looking to collaborate on front end design and back end technologies
+- 👀 I’m interested in Data Journalism
+- 🌱 I’m currently learning BI Data Analytics
+- 💞️ I’m looking to collaborate on data vizualizations, data modeling and api's
 - 📫 How to reach me just @ me ;)
 
 <!---
